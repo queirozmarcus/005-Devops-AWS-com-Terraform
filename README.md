@@ -35,3 +35,5 @@ No curso você encontrará muito código que poderá ser reaproveitável para ap
 
 - Quem quer aprender Terraform e automatizar o processo de criação e manutenção da infraestrutura de suas aplicações.
 - É Dev, Sys Admin, DevOps ou Simpatizantes e quer aprender sobre automação usando Terraform.
+
+### Fonte: https://github.com/chgasparoto/curso-aws-com-terraform
